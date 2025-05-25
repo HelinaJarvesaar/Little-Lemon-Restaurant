@@ -28,8 +28,9 @@
 ## Figma Links
 
 - [User Persona & User Journey Map](https://www.figma.com/design/A0gULYHzx53i0sTHk4fU9G/Little-Lemon-Restaurant?node-id=303-82&t=VEAGec80rlYDgVlE-1)
-- [Wireframes](https://www.figma.com/design/A0gULYHzx53i0sTHk4fU9G/Little-Lemon-Restaurant?node-id=0-1&t=VEAGec80rlYDgVlE-1)
-- [High-Fidelity Prototype](https://www.figma.com/proto/A0gULYHzx53i0sTHk4fU9G/Little-Lemon-Restaurant?node-id=439-95&p=f&t=6HSLs0wQT0dqKhKK-1&scaling=scale-down&content-scaling=fixed&page-id=438%3A94)
+- [LoFi](https://www.figma.com/design/A0gULYHzx53i0sTHk4fU9G/Little-Lemon-Restaurant?node-id=0-1&t=VEAGec80rlYDgVlE-1)
+- [HiFi](https://www.figma.com/design/A0gULYHzx53i0sTHk4fU9G/Little-Lemon-Restaurant?node-id=438-94&t=VEAGec80rlYDgVlE-1)
+- [Prototype](https://www.figma.com/proto/A0gULYHzx53i0sTHk4fU9G/Little-Lemon-Restaurant?node-id=439-95&p=f&t=6HSLs0wQT0dqKhKK-1&scaling=scale-down&content-scaling=fixed&page-id=438%3A94)
 
 ## Technologies Used
 
