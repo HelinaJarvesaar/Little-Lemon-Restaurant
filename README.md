@@ -1,4 +1,6 @@
-
+<p align= "center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" width="100" />
+</p>
 
 # 🍋 Little Lemon – Reserve a Table & Order for Delivery UX/UI Project
 
