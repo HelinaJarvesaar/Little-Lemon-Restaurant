@@ -43,5 +43,6 @@
 
 <img width="900" alt="Screenshot 2025-05-27 at 13 09 31" src="https://github.com/user-attachments/assets/bcb24e39-bc70-46c3-a302-8b8e2c22a4e1" />
 
-<img width="900" alt="Screenshot 2025-05-27 at 13 10 22" src="https://github.com/user-attachments/assets/9393834f-ff19-4e2a-8780-2f2afe4b387e" />
+<img width="900" alt="Screenshot 2025-05-27 at 13 16 55" src="https://github.com/user-attachments/assets/114548d1-29eb-43f6-8961-6e1ce5fad84d" />
+
 
